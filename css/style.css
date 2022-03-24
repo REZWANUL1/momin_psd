@@ -308,7 +308,7 @@ header {
 
 }
 
-.promo_container>.card_content p {
+.promo_container .card_content p {
    margin-top: 2.5em;
    font-size: 25px;
    font-weight: lighter;
